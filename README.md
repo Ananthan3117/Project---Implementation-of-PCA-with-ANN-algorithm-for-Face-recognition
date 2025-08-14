@@ -1,6 +1,6 @@
 # Implementation of PCA with ANN algorithm for Face recognition
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.unknown)
 
 A machine learning project for **face recognition** using **Principal Component Analysis (PCA)** for dimensionality reduction and **Artificial Neural Networks (ANN)** for classification.
 
