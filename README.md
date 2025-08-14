@@ -65,7 +65,7 @@ jupyter notebook Face Recognition using PCA + ANN.ipynb
 ---
 
 ##  License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.unknown) file for details.
 
 ---
 
