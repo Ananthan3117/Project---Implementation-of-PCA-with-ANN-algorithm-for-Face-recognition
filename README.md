@@ -17,10 +17,10 @@ A machine learning project for **face recognition** using **Principal Component 
 ##  Results
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.jpg)
+![Confusion Matrix](confusion_matrix.png)
 
 ### PCA Face Reconstruction Demo
-![PCA Reconstruction](pca_reconstruction.jpg)
+![PCA Reconstruction](pca_reconstruction.png)
 
 ---
 
