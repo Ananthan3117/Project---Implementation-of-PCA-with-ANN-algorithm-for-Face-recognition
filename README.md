@@ -27,11 +27,11 @@ A machine learning project for **face recognition** using **Principal Component 
 ##  Project Structure
 ```
 Project/
-│-- Project.ipynb               # Main Jupyter Notebook
-│-- requirements.txt            # Dependencies
-│-- LICENSE                      # MIT License
-│-- README.md                    # Project Documentation
-│-- images/                      # Output images (confusion matrix, PCA reconstruction)
+│-- Face Recognition using PCA + ANN.ipynb        # Main Jupyter Notebook
+│-- requirements.txt                              # Dependencies
+│-- LICENSE                                       # MIT License
+│-- README.md                                     # Project Documentation
+│-- images/                                       # Output images (confusion matrix, PCA reconstruction)
 ```
 
 ---
@@ -40,8 +40,8 @@ Project/
 
 1️. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/face-recognition-pca-ann.git
-cd face-recognition-pca-ann
+git clone https://github.com/Ananthan3117/Project---Implementation-of-PCA-with-ANN-algorithm-for-Face-recognition.git
+cd Project---Implementation-of-PCA-with-ANN-algorithm-for-Face-recognition
 ```
 
 2️. Install dependencies:
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ️3. Run the Jupyter Notebook:
 ```bash
-jupyter notebook Project.ipynb
+jupyter notebook Face Recognition using PCA + ANN.ipynb
 ```
 
 ---
